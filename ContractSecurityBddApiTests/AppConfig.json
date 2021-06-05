@@ -1,0 +1,9 @@
+﻿{
+  "bindingCulture": { "language": "en-us" },
+  "language": { "feature": "en-us" },
+  "DefaultUrl": "https://ce.contrastsecurity.com",
+  // chrome //  IE  // firefox  // chromeHeadless
+  "Browser": "chromeHeadless",
+  "baseUrl": "https://ce.contrastsecurity.com/Contrast/api/ng/e10cd1cf-4e59-4a9d-804e-cc8d21057699/"
+
+}
