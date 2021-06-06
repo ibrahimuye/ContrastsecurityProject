@@ -10,11 +10,12 @@ Hi Josh I briefly summarized some details about my work.
 -AppPages.AllPage where I have private page objects with public getters to implement Page Object Model
 -I created a physical class for each physical page of application so that I keep only one copy of each locator here and reuse wherever required
  this is for easy maintanence	
--html report of the last run is in ..\ContractSecurityBddApiTests\bin\Debug\netcoreapp3.1 and can be exported to TeamCity tabs
- I will provide a copy in project level as well as index.html
+-Html report of the last run will be created in ..\ContractSecurityBddApiTests\bin\Debug\netcoreapp3.1 and can be exported to Team City / Jenkins tabs
+ I will provide a copy in project level as well as index.html and a jpeg copy
 -I prefer mapping response directly to a physical class - all response objects and post payload objects are in AppPages.ApiObjects
 -BDD scenarios are in Features.VulneribilityTagsFeature file
 -C# scripts linked to each step of scenario areStepDefinitions.VulneribilityTagsTestsSteps.cs
+-To reproduce the bug, developer can use the steps in the excel report and the html report shows each passing and failing step. We attach here a screen shut of the error inctance in UI test.
 
 Looking forward to joining team !
 thank you
