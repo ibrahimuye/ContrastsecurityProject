@@ -48,6 +48,9 @@ namespace ContractSecurityBddApiTests.AppPages
 
         }
 
+        //I assume we always have vulnerabilities in DB to get one, it will be wise to take this method into try catch block and if there is no data in DB and there is 
+        // and exception then  would innsert some vulneribility data into DB
+        // this check could be either here or in Hooks class before starting the tests
         public string GetARandomVulnerabilityId()
         {
             AddHeaders();
