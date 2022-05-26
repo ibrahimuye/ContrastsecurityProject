@@ -1,7 +1,4 @@
 # ContrastsecurityProject
-My project just before getting accepted in my new company ! :)
-
-Hi Josh I briefly summarized some details about my work.
 
 -This framework is build to support both API and UI testing in BDD format
 -First two snerario are to test APIs
@@ -18,7 +15,7 @@ Hi Josh I briefly summarized some details about my work.
 -BDD scenarios are in Features.VulneribilityTagsFeature file
 -C# scripts linked to each step of scenario areStepDefinitions.VulneribilityTagsTestsSteps.cs
 
-Looking forward to joining team !
+
 thank you
 
 Ibrahim
